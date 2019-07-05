@@ -1,0 +1,7 @@
+2019-07-05 13:53:44 INFO     Beginning Portal Migration Script
+2019-07-05 13:53:44 DEBUG    Attempting to connect to the source portal: https://blue.jturco-ms.com/portal
+2019-07-05 13:53:47 INFO     Successfully connected to the source portal: https://blue.jturco-ms.com/portal
+2019-07-05 13:53:47 DEBUG    Attempting to connect to the target portal: https://arcgis.com
+2019-07-05 13:53:49 INFO     Successfully connected to the target portal: https://arcgis.com
+2019-07-05 13:53:49 INFO     kober1061 with role: org_admin found in source portal
+2019-07-05 13:53:49 INFO     rwilliams with role: org_admin found in source portal
