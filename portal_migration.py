@@ -1,4 +1,4 @@
-import csv, time, logging, getpass, sys
+im0port csv, time, logging, getpass, sys
 from arcgis.gis import GIS
 import user_migration, config
 
@@ -79,4 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    pass
+    return

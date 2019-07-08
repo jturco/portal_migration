@@ -1,9 +1,9 @@
-source_portal_url = "https://blue.jturco-ms.com/portal"
+source_portal_url = "https://source.esri-ps.com/portal"
 source_portal_admin = "admin"
 source_portal_password = "password" 
  
-target_portal_url = "https://arcgis.com"
-target_portal_admin = "jturco_DBS" 
-target_portal_password = "Kaylabear1717!" 
+target_portal_url = "https://target.esri-ps.com/portal"
+target_portal_admin = "admin" 
+target_portal_password = "password" 
 
 #other stuff here...
